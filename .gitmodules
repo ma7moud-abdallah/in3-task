@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ma7moud-abdallah/in3-task.git
